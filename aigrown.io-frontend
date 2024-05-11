@@ -1,0 +1,7 @@
+
+/*Homepage Edits*/
+/* Banner */
+#banner .transform-gpu .banner-bg{
+ transform:translatex(0px) translatey(0px);
+ background-image:linear-gradient(to right, #000000 0%, #ffc05b 99%);
+}
